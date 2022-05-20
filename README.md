@@ -47,7 +47,7 @@ Krak-projekt
 - Client can create a user profile, with user details saved in database for future logins 
 - Frontend added sign-up, log-in and view user features, as well as page to display available movie screenings
 
-# Who Did What
+### Who Did What
 He
 - Created entities Movie and Actor
 - Errorhandling with Respone Status Exception
